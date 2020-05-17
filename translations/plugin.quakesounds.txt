@@ -203,6 +203,9 @@
     {
         "#format"   "{1:s},{2:s}"
         "en"        "{1} has just paid {2} back!"
+        "de"		"{1} has just paid {2} back!"
+        "fr"		"{1} has just paid {2} back!"
+        "pt"		"{1} has just paid {2} back!"
     }
 	"announce message"
 	{
